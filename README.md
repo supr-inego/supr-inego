@@ -1,14 +1,20 @@
-<!-- Animated banner -->
+<!-- ===================== -->
+<!-- 🔥 ANIMATED BANNER 🔥 -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=210&section=header&text=Hey!%20I'm%20Iñego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=220&section=header&text=supr-inego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Typing effect -->
+<!-- ============================ -->
+<!-- 😈 UNHINGED TYPING ANIMATION -->
+<!-- ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=520&lines=Aspiring+Web+Developer;Student+%7C+Always+Learning;Building+cool+projects+daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2100&pause=500&color=FF5555&center=true&vCenter=true&width=760&lines=Aspiring+POGING+Developer+%F0%9F%94%A5;Student+%7C+Always+Sleeping+%F0%9F%92%A4;Debugging+my+life+%F0%9F%A7%A0;Building+trauma+since+2003+%F0%9F%92%80;Crying+%26+ranting+daily+%F0%9F%98%AD;Segmentation+fault+%28core+dumped%29+%F0%9F%92%A5;Powered+by+coffee+%26+bad+decisions+%E2%98%95" />
 </p>
 
-<!-- Center GIF (like your example) -->
+<!-- ================= -->
+<!-- 🧠 CENTER GIF 🧠 -->
+<!-- ================= -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
 </p>
@@ -16,56 +22,51 @@
 ---
 
 ## 🧩 About Me
-- 🌱 Currently learning: **Web Dev / Tools / Linux**
-- 🎯 Goal: **Build real projects + improve every day**
-- 📫 Reach me: **your-email-here**
+- 🎓 Student | **Professional procrastinator**
+- 💻 Aspiring **POGING Developer**
+- 🧠 Learning web dev while mentally buffering
+- ☕ Runs on coffee, vibes, and questionable life choices
 
 ---
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-0ea5e9?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-0ea5e9?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.facebook.com/123.inego">
+    <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=0ea5e9" />
+  </a>
+  <a href="https://instagram.com/supr.inego">
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=0ea5e9" />
+  </a>
+  <a href="https://github.com/supr-inego/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=github&logoColor=0ea5e9" />
+  </a>
 </p>
 
 ---
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nodejs,express,mysql,git,github,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (stable + fixed)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supr-inego&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supr-inego&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supr-inego&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://streak-stats.demolab.com?user=supr-inego&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 📫 Contact
+📧 **cyrildayak03@gmail.com**
+
+---
+
+<!-- ================= -->
+<!-- 🌊 FOOTER BANNER -->
+<!-- ================= -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=supr-inego&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:020617&height=140&section=footer" />
 </p>
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=140&section=footer" />
-</p>
-
-
-<!--
-**supr-inego/supr-inego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
