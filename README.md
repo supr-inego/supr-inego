@@ -2,14 +2,14 @@
 <!-- 🔥 ANIMATED BANNER 🔥 -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=220&section=header&text=supr-inego&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=220&section=header&text=hi%20it%27s%20me%2C%20the%20badbitch%20developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- ============================ -->
 <!-- 😈 UNHINGED TYPING ANIMATION -->
 <!-- ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2100&pause=500&color=FF5555&center=true&vCenter=true&width=760&lines=Aspiring+POGING+Developer+%F0%9F%94%A5;Bad+Bitch+%7C+Always+Sleeping+%F0%9F%92%A4;Debugging+my+life+%F0%9F%A7%A0;Building+trauma+since+2003+%F0%9F%92%80;Crying+%26+ranting+daily+%F0%9F%98%AD;Segmentation+fault+%28core+dumped%29+%F0%9F%92%A5;Powered+by+coffee+%26+bad+decisions+%E2%98%95" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2100&pause=500&color=FF5555&center=true&vCenter=true&width=760&lines=Aspiring+POGING+Developer+%F0%9F%94%A5;Bad+Bitch+%7C+Always+Sleeping+%F0%9F%92%A4;Debugging+my+life+%F0%9F%A7%A0;Building+trauma+since+2004+%F0%9F%92%80;Crying+%26+ranting+daily+%F0%9F%98%AD;Segmentation+fault+%28core+dumped%29+%F0%9F%92%A5;Powered+by+coffee+%26+bad+decisions+%E2%98%95" />
 </p>
 
 <!-- ================= -->
