@@ -37,8 +37,8 @@
   <a href="https://instagram.com/supr.inego">
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=0ea5e9" />
   </a>
-  <a href="https://github.com/supr-inego/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=github&logoColor=0ea5e9" />
+  <a href="https://portfolio-5irf.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=0ea5e9" />
   </a>
 </p>
 
