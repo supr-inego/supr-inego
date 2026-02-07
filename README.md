@@ -9,7 +9,7 @@
 <!-- 😈 UNHINGED TYPING ANIMATION -->
 <!-- ============================ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2100&pause=500&color=FF5555&center=true&vCenter=true&width=760&lines=Aspiring+POGING+Developer+%F0%9F%94%A5;bad bitch+%7C+Always+Sleeping+%F0%9F%92%A4;Debugging+my+life+%F0%9F%A7%A0;Building+trauma+since+2003+%F0%9F%92%80;Crying+%26+ranting+daily+%F0%9F%98%AD;Segmentation+fault+%28core+dumped%29+%F0%9F%92%A5;Powered+by+coffee+%26+bad+decisions+%E2%98%95" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2100&pause=500&color=FF5555&center=true&vCenter=true&width=760&lines=Aspiring+POGING+Developer+%F0%9F%94%A5;Bad+Bitch+%7C+Always+Sleeping+%F0%9F%92%A4;Debugging+my+life+%F0%9F%A7%A0;Building+trauma+since+2003+%F0%9F%92%80;Crying+%26+ranting+daily+%F0%9F%98%AD;Segmentation+fault+%28core+dumped%29+%F0%9F%92%A5;Powered+by+coffee+%26+bad+decisions+%E2%98%95" />
 </p>
 
 <!-- ================= -->
@@ -22,10 +22,10 @@
 ---
 
 ## 🧩 About Me
-- 🎓 Student | **Professional procrastinator**
+- 💅 Certified **Bad Bitch**
 - 💻 Aspiring **POGING Developer**
-- 🧠 Learning web dev while mentally buffering
-- ☕ Runs on coffee, vibes, and questionable life choices
+- 🧠 Debugging code & emotions simultaneously
+- ☕ Fueled by coffee, insomnia, and spite
 
 ---
 
@@ -51,9 +51,8 @@
 
 ---
 
-## 📊 GitHub Stats (stable + fixed)
+## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supr-inego&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img height="165" src="https://streak-stats.demolab.com?user=supr-inego&theme=tokyonight&hide_border=true" />
 </p>
 
